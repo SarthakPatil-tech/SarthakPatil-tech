@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SarthakPatil-tech
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Pytjon
-- 💞️ I’m looking to collaborate on ---
+- 🌱 I’m currently learning HTML, CSS
+- 💞️ I’m looking to collaborate on -x-x-x-x-
 - 📫 How to reach me sarthakpat97@gmail.com
 - 😄 Pronouns: Dashes
 - ⚡ Fun fact: Python is an experiment in how much freedom programmers need.
